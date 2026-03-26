@@ -1,0 +1,6 @@
+cd ruoyi-admin\target
+java -jar ruoyi-admin.jar
+
+cd ruoyi-vue
+npm install
+npm run dev
